@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['setrgb_78',['setRGB',['../_polyline_8cpp.html#a7eec7ff48bceaddf4809e6a39e8e98bd',1,'setRGB(float distance):&#160;Polyline.cpp'],['../_vector_field_circle_8cpp.html#a7eec7ff48bceaddf4809e6a39e8e98bd',1,'setRGB(float distance):&#160;VectorFieldCircle.cpp'],['../_vector_field_line_algo_8cpp.html#a7eec7ff48bceaddf4809e6a39e8e98bd',1,'setRGB(float distance):&#160;VectorFieldLineAlgo.cpp']]],
+  ['simplify_79',['Simplify',['../_line_drawing_8cpp.html#a05358db3d174a16ec78a2ad5a8c6aac1',1,'Simplify(int &amp;X1, int &amp;Y1, int &amp;X2, int &amp;Y2):&#160;LineDrawing.cpp'],['../_polyline_8cpp.html#a747057f2473cdbfa8944edd10e28dda0',1,'Simplify(int &amp;, int &amp;, int &amp;, int &amp;):&#160;Polyline.cpp'],['../_vector_field_line_algo_8cpp.html#a747057f2473cdbfa8944edd10e28dda0',1,'Simplify(int &amp;, int &amp;, int &amp;, int &amp;):&#160;VectorFieldLineAlgo.cpp']]],
+  ['swap_80',['swap',['../_line_drawing_8cpp.html#aa23258ab9773977c9cb5176081178d62',1,'swap(int &amp;x, int &amp;y):&#160;LineDrawing.cpp'],['../_polyline_8cpp.html#aa23258ab9773977c9cb5176081178d62',1,'swap(int &amp;x, int &amp;y):&#160;Polyline.cpp'],['../_vector_field_line_algo_8cpp.html#aa23258ab9773977c9cb5176081178d62',1,'swap(int &amp;x, int &amp;y):&#160;VectorFieldLineAlgo.cpp']]]
+];
